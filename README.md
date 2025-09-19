@@ -1,6 +1,6 @@
 ## Demo video (https://drive.google.com/file/d/1PvZnDxXnzMv97qAI9lmdw13lXsUA4OAD/view?usp=drivesdk)
 
-Documention download (
+Documention download (https://github.com/nivetha2007w/Store-manager-Keep-track-of-inventory/blob/672b32bb47208f50b8f8f87784b4abd9ee42face/store%20inventory%20docu%20files-1.docx)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
